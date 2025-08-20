@@ -18,7 +18,7 @@ Committing is the process of confirming edits to a file
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+A repository is 
 
 ---
 
