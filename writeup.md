@@ -26,7 +26,7 @@ A repository acts as a "project folder;" it stores and tracks the revision histo
 
 **Link to your GitHub profile repository:** 
 
-#####[https://github.com/Fern-Pyro#-hey](https://github.com/Fern-Pyro#-hey)
+##### [https://github.com/Fern-Pyro#-hey](https://github.com/Fern-Pyro#-hey)
 ---
 
 ## Looking Ahead
