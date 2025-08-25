@@ -14,7 +14,7 @@ Git is a version control system (VCS) that allows for easy collaboration and tra
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-Committing is the process of recording edits to a file; you can make as many commits as you would like and the are stored locally on your device  
+Committing is the process of recording edits to a file; you can make as many commits as you would like (commits are stored locally on your device). Pushing is process of adding commits to your remotely stored repository (located in the cloud). These steps are important in order to  
 
 **3. What is a repository and what does it contain?**
 
